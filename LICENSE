@@ -1,0 +1,39 @@
+PaperSearch Personal Non-Commercial License 1.0
+SPDX-License-Identifier: LicenseRef-PaperSearch-Personal-NonCommercial-1.0
+Copyright (c) 2026 Aezir. All rights reserved.
+
+本许可适用于 PaperSearch（纸页搜索）的原创代码、安装包中可由许可人授权的原创部分、文档和本项目品牌素材。许可人为 Aezir。第三方材料适用第七条。
+
+一、仅限个人非商业使用
+在遵守本许可的前提下，仅授予自然人本人一项有限、非独占、不可转让、不可再许可的权利：通过许可人提供的官方渠道获取软件，并在本人控制的设备上安装和用于私人、非职业、非商业目的。允许为本人使用制作必要备份。可查看源代码供私人学习；可仅为本人非商业使用编译或修改原创代码，不得对外提供修改版。
+
+二、严格禁止任何形式的商业化
+未经许可人另行事先书面授权，不得直接或间接将软件、任何实质部分、修改版、衍生作品或品牌素材用于获取收入、利润、商业优势、业务支持、引流或其他经济利益，包括但不限于：
+1. 售卖、租赁、付费下载、付费更新、会员、订阅、解锁、增值功能或应用内购买；
+2. 广告、赞助、推广、联盟佣金、带货、商业导流、用户交易或数据变现；
+3. 收费部署、代安装、代编译、代维护、技术支持、咨询、培训或捆绑销售；
+4. SaaS、托管服务、云服务、API、平台功能、企业内部工具、雇佣工作、承包工作或为任何组织开展的经营活动；
+5. 以软件的访问、功能、分发、维护或开发作为交换条件的捐赠、打赏、众筹、赞助、虚拟货币或其他利益；
+6. 更名、换标、套壳、二次打包、插件化、嵌入其他产品，或者通过关联方、非营利名义、代理、间接收费等方式规避本条；
+7. 将软件原创代码或品牌素材用于商业产品的开发、训练、构建、交付或销售。
+是否商业化按行为的实际目的、使用方式和经济关联判断，不因标注“免费”“公益”“开源”“学习交流”、暂未获利、没有收费入口、收取款项的名目或组织形式而自动豁免。个人不收费地使用软件不构成向任何企业或组织授予许可。
+
+三、禁止未经授权的分发和再授权
+除本人必要备份以及法律不可排除的权利外，未经许可人事先书面许可，不得复制供他人获取、镜像、上传商店或网盘、重新发布、转售、再许可、转让或对外提供软件及其修改版，不论是否收费。可分享许可人的官方项目页面和官方发行链接。不得移除版权、许可、署名或第三方声明，不得暗示官方背书。
+
+四、保留权利
+未明确授予的权利均予保留。本许可不授予商标、专利或品牌使用许可。本软件不是采用 OSI 开源许可的软件；公开源代码或安装包不表示允许任意使用。许可人及其事先授权、仅代表许可人进行开发或发行的人员，不受本许可对被许可使用者的限制。
+
+五、违约终止
+违反本许可时，所授予的许可立即终止。应立即停止未获授权的使用和分发，撤下由本人控制的违规副本、广告和服务，并删除无其他合法依据保留的相关副本。终止不影响许可人依法主张停止侵害、损害赔偿或其他救济的权利。不存在自动商业授权或默示豁免。
+
+六、按现状提供
+在法律允许的最大范围内，软件按现状提供，不提供适销性、特定用途适用性、可用性或不侵权等保证；许可人不对因使用或不能使用软件产生的损失承担责任。适用法律不可排除的消费者权利、合理使用及其他法定权利不受本许可限制；个别条款无效不影响其余条款。
+
+七、第三方材料与既有权利
+第三方图标、商标和其他材料继续适用各自的许可和权利声明，见 THIRD_PARTY_NOTICES.md 及随附许可副本。本许可仅约束许可人有权授权的材料，不撤销第三方许可授予的权利，不改变第三方许可义务，不声称拥有第三方商标。服务 Logo 仅用于识别相应搜索入口。本许可也不追溯撤销已经有效授出的第三方或其他既有许可。
+
+八、联系与授权
+仅许可人明确、事先、书面的授权可以扩大使用范围。联系项目所有者：https://github.com/Aezir/PaperSearch-Releases 。没有回复不构成许可。
+
+English summary (the Chinese text above governs): Personal, private, non-professional and non-commercial use only. Personal study and private modifications are allowed solely for the user's own non-commercial use. All direct and indirect commercialization, business use, monetized distribution, paid services, advertising, and circumvention through derivatives or rebranding are prohibited without the licensor's prior written permission. Redistribution and sublicensing are not granted. Violations terminate permission immediately. Third-party materials retain their own licenses and rights. No statutory, non-waivable right is excluded. This is a proprietary personal-use license, not an OSI open-source license.
