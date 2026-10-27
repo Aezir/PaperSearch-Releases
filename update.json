@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4.0",
-  "downloadUrl": "https://github.com/Aezir/PaperSearch-Releases/releases/download/v0.4.0/PaperSearch-0.4.0.apk",
-  "sha256": "d57d0a7735bf9e6d408843d2e1cb4ee084dbf0ce692aa14b4a6a530e443e2fd9",
+  "versionCode": 5,
+  "versionName": "0.4.1",
+  "downloadUrl": "https://github.com/Aezir/PaperSearch-Releases/releases/download/v0.4.1/PaperSearch-0.4.1.apk",
+  "sha256": "0595cab15b0b5a096ed4022466fa5f120136b6ddc74e5d299098f4b8fd108aee",
   "size": 252375,
   "notes": "无边框透明模糊界面；统一底栏 Logo；空白点击退出并清理任务；短信授权与兼容查询改进；历史左滑置顶；检查更新、关于及严格个人非商业许可；蝌蚪应用图标。"
 }

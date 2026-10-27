@@ -1,0 +1,84 @@
+{
+  "repository": "https://github.com/glincker/thesvg",
+  "commit": "fa87032438a21826df5a4fbb0e6b0ce9d02147d6",
+  "icons": [
+    {
+      "slug": "bilibili",
+      "license": "CC0-1.0",
+      "source": "https://github.com/glincker/thesvg/blob/fa87032438a21826df5a4fbb0e6b0ce9d02147d6/public/icons/bilibili/default.svg",
+      "sha256": "b765d3899f1d4ffa4b9be5fb6f4ef41b3d9c5e6905f174c29e92b43409483d24"
+    },
+    {
+      "slug": "bing",
+      "license": "MIT",
+      "source": "https://github.com/glincker/thesvg/blob/fa87032438a21826df5a4fbb0e6b0ce9d02147d6/public/icons/bing/default.svg",
+      "sha256": "192d4671a23e40c7deb8fb16c48970e27f116a6ca5cc648eb6e3b366f5c8dd6d"
+    },
+    {
+      "slug": "chatglm",
+      "license": "MIT",
+      "source": "https://github.com/glincker/thesvg/blob/fa87032438a21826df5a4fbb0e6b0ce9d02147d6/public/icons/chatglm/color.svg",
+      "sha256": "79b3acceaf2edbc632e61dace5a30b601677b8d4e64468e18c4e277696d511e8"
+    },
+    {
+      "slug": "claude",
+      "license": "CC0-1.0",
+      "source": "https://github.com/glincker/thesvg/blob/fa87032438a21826df5a4fbb0e6b0ce9d02147d6/public/icons/claude/default.svg",
+      "sha256": "5119ef950a0d648b3fd62865791e73f07f32e18ddab84e4f21160f8c641c0f5f"
+    },
+    {
+      "slug": "dazhong-dianping",
+      "license": "CC0-1.0",
+      "source": "https://github.com/glincker/thesvg/blob/fa87032438a21826df5a4fbb0e6b0ce9d02147d6/public/icons/dazhong-dianping/default.svg",
+      "sha256": "84c20af72524a678f11393c22a7722e5408b984333090a8c3e5099761828b829"
+    },
+    {
+      "slug": "deepseek",
+      "license": "MIT",
+      "source": "https://github.com/glincker/thesvg/blob/fa87032438a21826df5a4fbb0e6b0ce9d02147d6/public/icons/deepseek/default.svg",
+      "sha256": "360336e87a3336f60b7d2432ecdea2982537806886e20b170163fd5d3dda825b"
+    },
+    {
+      "slug": "douban",
+      "license": "Custom",
+      "source": "https://github.com/glincker/thesvg/blob/fa87032438a21826df5a4fbb0e6b0ce9d02147d6/public/icons/douban/default.svg",
+      "sha256": "87a0a1b6247b74a85703664e8441c4e0b96559565939e152339d9ad9d548a0f4"
+    },
+    {
+      "slug": "github",
+      "license": "CC0-1.0",
+      "source": "https://github.com/glincker/thesvg/blob/fa87032438a21826df5a4fbb0e6b0ce9d02147d6/public/icons/github/default.svg",
+      "sha256": "5ca23571194899d8eb1d26a622bba6f59d7fe03abc08e2cd2970eb3795874ece"
+    },
+    {
+      "slug": "google",
+      "license": "CC0-1.0",
+      "source": "https://github.com/glincker/thesvg/blob/fa87032438a21826df5a4fbb0e6b0ce9d02147d6/public/icons/google/default.svg",
+      "sha256": "a60266dab17c1c00981c7077fa025aa84c92782e0657ca2f78b7f70cbb8d5a56"
+    },
+    {
+      "slug": "kimi",
+      "license": "MIT",
+      "source": "https://github.com/glincker/thesvg/blob/fa87032438a21826df5a4fbb0e6b0ce9d02147d6/public/icons/kimi/default.svg",
+      "sha256": "0ba35ce31b57bb6db39d4e454925e39f88f46a3b52a07898bd8262c3902df7fc"
+    },
+    {
+      "slug": "openai",
+      "license": "MIT",
+      "source": "https://github.com/glincker/thesvg/blob/fa87032438a21826df5a4fbb0e6b0ce9d02147d6/public/icons/openai/default.svg",
+      "sha256": "db81a8225166f02f773304ba4d8f0141343da5f43870d8b41f10bf6bc59840c8"
+    },
+    {
+      "slug": "taobao",
+      "license": "CC0-1.0",
+      "source": "https://github.com/glincker/thesvg/blob/fa87032438a21826df5a4fbb0e6b0ce9d02147d6/public/icons/taobao/default.svg",
+      "sha256": "c5febb2248d528fd5d052a3ce6e29deca061a8b9104351c32ef53c973e004602"
+    },
+    {
+      "slug": "xiaohongshu",
+      "license": "CC0-1.0",
+      "source": "https://github.com/glincker/thesvg/blob/fa87032438a21826df5a4fbb0e6b0ce9d02147d6/public/icons/xiaohongshu/default.svg",
+      "sha256": "23315f1bf4178aabeefe3a35459bd7021c79eb047ca84732294c9f1a7a0b1894"
+    }
+  ]
+}
