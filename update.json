@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "0.4.1",
-  "downloadUrl": "https://github.com/Aezir/PaperSearch-Releases/releases/download/v0.4.1/PaperSearch-0.4.1.apk",
-  "sha256": "0595cab15b0b5a096ed4022466fa5f120136b6ddc74e5d299098f4b8fd108aee",
-  "size": 252375,
-  "notes": "无边框透明模糊界面；统一底栏 Logo；空白点击退出并清理任务；短信授权与兼容查询改进；历史左滑置顶；检查更新、关于及严格个人非商业许可；蝌蚪应用图标。"
+  "versionCode": 6,
+  "versionName": "0.4.2",
+  "downloadUrl": "https://github.com/Aezir/PaperSearch-Releases/releases/download/v0.4.2/PaperSearch-0.4.2.apk",
+  "sha256": "a31d81cab5eb8972775b865483b256da28089f4367ee52816e7d1406563b22c4",
+  "size": 867024,
+  "notes": "替换豆瓣、拼多多、智谱清言、Kimi、高德地图、京东的官方应用 Logo，自动升级旧占位图标并保留自定义图标。输入后自动匹配历史、通讯录和短信，优先展示不同来源，清空时取消旧检索，补充通讯录提供器兼容回退。"
 }
