@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.4.3",
-  "downloadUrl": "https://github.com/Aezir/PaperSearch-Releases/releases/download/v0.4.3/PaperSearch-0.4.3.apk",
-  "sha256": "23d99a6e281ccce98e79db84d0b8fa69362ca6ae853b59d1e8d299d156fb870f",
+  "versionCode": 8,
+  "versionName": "0.4.4",
+  "downloadUrl": "https://github.com/Aezir/PaperSearch-Releases/releases/download/v0.4.4/PaperSearch-0.4.4.apk",
+  "sha256": "d2d178abb0228df46757fc57dfe976a44b6de60a1229f431abdff1ed4b2e2f18",
   "size": 867024,
-  "notes": "统一入口 Logo 为黑白、同尺寸圆角样式，保留真实标志；补充短信筛选静默返回空游标时的本地匹配回退。设置 → 短信新增“检测短信读取”，区分未授权、访问受限、系统拒绝、空库和正文可读等状态，仅本机检测，不显示或导出短信内容。MagicOS 10 真机是否受限需依据实际检测，不能据模拟器结果保证解除厂商限制。"
+  "notes": "应用正式更名为 Taddy，更新桌面与系统应用名、关于页、设置版本信息、下载通知、导出文件名和许可中的品牌名称。保持原包名、签名及更新地址，支持直接覆盖升级并保留已有数据。"
 }

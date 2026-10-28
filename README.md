@@ -1,6 +1,6 @@
-<img src="logo.png" width="112" alt="纸页搜索蝌蚪 Logo">
+<img src="logo.png" width="112" alt="Taddy蝌蚪 Logo">
 
-# 纸页搜索 · 官方发行
+# Taddy · 官方发行
 
 轻量个人 Android 搜索页。透明悬浮界面，搜索引擎快捷切换，本机历史、通讯录和短信匹配。
 
